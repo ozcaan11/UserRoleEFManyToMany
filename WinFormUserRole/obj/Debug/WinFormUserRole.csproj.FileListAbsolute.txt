@@ -1,0 +1,16 @@
+c:\users\userl50\documents\visual studio 2015\Projects\WinFormUserRole\WinFormUserRole\bin\Debug\WinFormUserRole.exe.config
+c:\users\userl50\documents\visual studio 2015\Projects\WinFormUserRole\WinFormUserRole\bin\Debug\WinFormUserRole.exe
+c:\users\userl50\documents\visual studio 2015\Projects\WinFormUserRole\WinFormUserRole\bin\Debug\WinFormUserRole.pdb
+c:\users\userl50\documents\visual studio 2015\Projects\WinFormUserRole\WinFormUserRole\bin\Debug\EntityFramework.dll
+c:\users\userl50\documents\visual studio 2015\Projects\WinFormUserRole\WinFormUserRole\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\userl50\documents\visual studio 2015\Projects\WinFormUserRole\WinFormUserRole\bin\Debug\EntityFramework.xml
+c:\users\userl50\documents\visual studio 2015\Projects\WinFormUserRole\WinFormUserRole\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\userl50\documents\visual studio 2015\Projects\WinFormUserRole\WinFormUserRole\obj\Debug\WinFormUserRole.frmLogin.resources
+c:\users\userl50\documents\visual studio 2015\Projects\WinFormUserRole\WinFormUserRole\obj\Debug\WinFormUserRole.Properties.Resources.resources
+c:\users\userl50\documents\visual studio 2015\Projects\WinFormUserRole\WinFormUserRole\obj\Debug\WinFormUserRole.csproj.GenerateResource.Cache
+c:\users\userl50\documents\visual studio 2015\Projects\WinFormUserRole\WinFormUserRole\obj\Debug\WinFormUserRole.exe
+c:\users\userl50\documents\visual studio 2015\Projects\WinFormUserRole\WinFormUserRole\obj\Debug\WinFormUserRole.pdb
+C:\Users\userL50\documents\visual studio 2015\Projects\WinFormUserRole\WinFormUserRole\bin\Debug\WinFormUserRole.exe.manifest
+C:\Users\userL50\documents\visual studio 2015\Projects\WinFormUserRole\WinFormUserRole\bin\Debug\WinFormUserRole.application
+C:\Users\userL50\documents\visual studio 2015\Projects\WinFormUserRole\WinFormUserRole\obj\Debug\WinFormUserRole.exe.manifest
+C:\Users\userL50\documents\visual studio 2015\Projects\WinFormUserRole\WinFormUserRole\obj\Debug\WinFormUserRole.application
